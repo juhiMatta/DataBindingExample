@@ -1,2 +1,2 @@
 # DataBindingExample
-This repo will include the data binding library eample
+This repo will cover the data binding library eample
